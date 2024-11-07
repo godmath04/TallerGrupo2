@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d358761-d1ae-4c8e-8bef-d4d3a5dce9b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculadora/src/main/java/org/example/calculadora/CalculadoraApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clase 12-04-24/Clase 12-04-24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ColasPractica/ColasPractica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuestionarioPractico_P1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuestionarioPractico_P1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuestionarioPractico_P1/src/BarcoNombresCompletos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuestionarioPractico_P1/src/ColaBarcos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuestionarioPractico_P1/src/ColaGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CuestionarioPractico_P1/src/ColaGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcuadorTeam/EcuadorTeam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EcuadorTeam/src/ICalificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/src/ColaGuerreros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/src/Guerrero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjercicioGuerrero/src/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio_TableViewAndEstilos/Ejercicio_TableViewAndEstilos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamenProgreso1/ExamenProgreso1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HolaMundo/HolaMundo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMC/IMC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces_practica1/Interfaces_practica1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaSwing_Ej_enClase/JavaSwing_Ej_enClase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/TDApila1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/src/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/src/PilaGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programacion3/TDApila1/src/PilaGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDACola/TDACola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAColaPrioridad/src/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/TDAPila_practica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/src/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/src/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/src/PilaGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDAPila_practica/src/PilaGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TallerPractica1/TallerPractica1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zephyr/Zephyr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjercicioParqueadero/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioParqueadero/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2o2rC1ToUHWoaVux8RxoBb9wb8X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PilaBalanceada.executor": "Run",
+    "Application.PilaGUI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/G_Laptop/OneDrive - Universidad de Las Américas/Documents"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d358761-d1ae-4c8e-8bef-d4d3a5dce9b2" name="Changes" comment="" />
+      <created>1730078382366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730078382366</updated>
+    </task>
+    <servers />
+  </component>
+</project>

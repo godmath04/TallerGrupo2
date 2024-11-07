@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ej2FilaBanco/Ej2FilaBanco.iml" filepath="$PROJECT_DIR$/Ej2FilaBanco/Ej2FilaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ej3PrioridadesEmergencia/Ej3PrioridadesEmergencia.iml" filepath="$PROJECT_DIR$/Ej3PrioridadesEmergencia/Ej3PrioridadesEmergencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio4_PilaBalanceada/Ejercicio4_PilaBalanceada.iml" filepath="$PROJECT_DIR$/Ejercicio4_PilaBalanceada/Ejercicio4_PilaBalanceada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio5/Ejercicio5.iml" filepath="$PROJECT_DIR$/Ejercicio5/Ejercicio5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Grupo2_Taller1.iml" filepath="$PROJECT_DIR$/.idea/Grupo2_Taller1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevetirPilas/RevertirPilas.iml" filepath="$PROJECT_DIR$/RevetirPilas/RevertirPilas.iml" />
+    </modules>
+  </component>
+</project>
